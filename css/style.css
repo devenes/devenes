@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+body {
+	font-family: 'Roboto', sans-serif;
+}
+.header-bg {
+	background: url(https://annedece.sirv.com/Images/Wave-10s-1920px.png) no-repeat center top;
+}
+a {
+	color: #222;
+	transition: all 0.3s ease;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+.active2 {
+	color: #06C;
+}
+.btn {
+	padding: 8px 20px !important;
+}
+.border-radius-new {
+	border-radius: 20px;
+}
+.nav-link {
+	font-weight: bold;
+	margin: 0 10px;
+}
+.tt {
+	top: -30px;
+	left: -10px;
+	position: absolute;
+	background-color: #FFF;
+	border-radius: 100%;
+	width: 70px;
+	height: 70px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.tt i {
+	font-size: 26px;
+	margin: 0;
+	padding: 0;
+	line-height: 0;
+}
+.ll i {
+	font-size: 26px;
+}
+.kk {
+	background-color: #FFF;
+	border-radius: 100%;
+	width: 50px;
+	height: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 15px;
+}
+.kk i {
+	font-size: 16px;
+	margin: 0;
+	padding: 0;
+	line-height: 0;
+}
+.hh {
+	font-size: 54px;
+}
+.vv {
+	transition: all 0.3s ease;
+}
+@media screen and (max-width: 992px) {
+.mobile-bg {
+	background-color:#74a3fa;
+}
+}
+
+
