@@ -29,5 +29,4 @@
   </a>
 </p>
 
-
-https://devenes.github.io/devenes/
+https://www.enes.software/
