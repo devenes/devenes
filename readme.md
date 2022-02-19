@@ -1,7 +1,7 @@
 <a href="https://www.enes.software/"><img src="icon/ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode"></a>
 
 <p align="left"> 
- 🖖 Hello there! I'm Enes and I'm <strong>DevOps Engineer</strong>.
+ 🖖 Hello there! I'm Enes and I'm a <strong>DevOps Engineer</strong>.
 </p>
 
 <p align="left">
