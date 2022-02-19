@@ -29,6 +29,20 @@ a:hover {
 	font-weight: bold;
 	margin: 0 10px;
 }
+.image-cropper {
+	width: 350px;
+	height: 350px;
+	position: relative;
+	overflow: hidden;
+	border-radius: 80%;	
+  }
+  
+  img {
+	display: inline;
+	margin: 0 auto;
+	height: 100%;
+	width: auto;
+  }
 .tt {
 	top: -30px;
 	left: -10px;
