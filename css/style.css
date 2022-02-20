@@ -112,6 +112,28 @@ a:hover {
 .lni-envelope:hover {
 	color: #F8694A;
 }
+.table{
+	position: relative;
+	bottom: 0;
+	width: 100%;
+	background-color: rgb(245, 245, 245);
+	text-align: left;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	padding-bottom: 0px;
+	padding-top: 10px 10px;
+
+}
+.table-responsive {
+	position: relative;
+	bottom: 0;
+	width: 100%;
+	background-color: rgb(255, 255, 255);
+	padding: 20px 0;
+	text-align: left;
+	margin-bottom: 15px;
+	padding-bottom: 0px;	
+}
 @media screen and (max-width: 992px) {
 .mobile-bg {
 	background-color:#74a3fa;
