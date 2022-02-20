@@ -30,14 +30,14 @@ a:hover {
 	margin: 0 10px;
 }
 .image-cropper {
-	width: 350px;
-	height: 350px;
+	width: 70%;
+	height: 100%;
 	position: relative;
 	overflow: hidden;
 	border-radius: 80%;	
   }
   
-  img {
+ img {
 	display: inline;
 	margin: 0 auto;
 	height: 100%;
@@ -81,15 +81,39 @@ a:hover {
 	line-height: 0;
 }
 .hh {
-	font-size: 54px;
+	font-size: 54px;	
+	color: rgb(255, 0, 255);
+}
+.hh2 {
+	font-size: 54px;	
+	color: rgb(0, 247, 255);
 }
 .vv {
 	transition: all 0.3s ease;
+}
+.lni-youtube:hover {
+	color: #FF0000;
+}
+.lni-github-original:hover {
+	color: rgb(119, 0, 255);
+}
+.lni-linkedin-original:hover {
+	color: #0077B5;
+}
+.lni-twitter-filled:hover {
+	color: #1DA1F2;
+}
+.lni-instagram-filled:hover {
+	color: #E1306C;
+}
+.lni-facebook-filled:hover {
+	color: #3B5998;
+}
+.lni-envelope:hover {
+	color: #F8694A;
 }
 @media screen and (max-width: 992px) {
 .mobile-bg {
 	background-color:#74a3fa;
 }
 }
-
-
