@@ -122,6 +122,10 @@ img draggable="false" src="image.png" alt="image description" */
 .lni-envelope:hover {
 	color: #F8694A;
 }
+.blogs{
+	width: 100px;
+	height: 100px;
+}
 .table{
 	position: relative;
 	bottom: 0;
