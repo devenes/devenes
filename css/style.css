@@ -88,6 +88,16 @@ a:hover {
 	font-size: 54px;	
 	color: rgb(0, 247, 255);
 }
+/* Disable selection in CSS */
+.selectDisable {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;	
+}
+/* Prevent dragging images, ghost images:
+img draggable="false" src="image.png" alt="image description" */
 .vv {
 	transition: all 0.3s ease;
 }
@@ -116,7 +126,7 @@ a:hover {
 	position: relative;
 	bottom: 0;
 	width: 100%;
-	background-color: rgb(245, 245, 245);
+	background-color: #f1f4f8;
 	text-align: left;
 	margin-bottom: 10px;
 	margin-top: 10px;
