@@ -42,7 +42,8 @@ I'm Enes and I'm a <strong>DevOps Engineer</strong>.
 
 <div align="center">
 <a href="https://www.enes.software/">
-<img src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif">
+<img src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif" width=95%  
+alt="logo devops" style="border-radius: 95%;" >
 </a>
 </div>
 
