@@ -36,14 +36,14 @@ I'm Enes and I'm a <strong>DevOps Engineer</strong>.
 
 ![snake svg](https://github.com/devenes/devenes/blob/output/github-contribution-grid-snake.svg)
 
+
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Enes+Turan;Self+taught+developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
 </p> -->
 
 <div align="center">
 <a href="https://www.enes.software/">
-<img src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif" width=95%  
-alt="logo devops" style="border-radius: 50%;">
+<img src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif">
 </a>
 </div>
 
@@ -66,17 +66,26 @@ alt="logo devops" style="border-radius: 50%;">
 
 <div>
 <a href="https://www.enes.software/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devenes&show_icons=true&theme=radical" />
-</a>
-</div>
-<a href="https://www.enes.software/">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devenes&theme=radical&date_format=j%20M%5B%20Y%5D" />
-</a>
-</a>
-<a href="https://www.enes.software/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devenes&layout=compact&theme=radical" />
 </a>
+
+<br>
+
+<a href="https://www.enes.software/">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devenes&show_icons=true&theme=radical" />
+
+</a>
 </div>
+<br>
+<a href="https://www.enes.software/">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devenes&theme=radical&date_format=j%20M%5B%20Y%5D" />
+
+</a>
+<br>
+
+</div>
+
+<br>
 
 <div  align="center">
 <a href="https://www.enes.software/">
