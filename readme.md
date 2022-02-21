@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
- ☕ Code with: <strong>HTML, CSS, JavaScript, React.JS, TypeScript, Next.js, Python, Flask, Go, Bash </strong>
+ ☕ Code with: <strong>HTML, CSS, JavaScript, React.JS, TypeScript, Python, Flask, Go, Bash </strong>
 </p>
 
 <p align="left">
@@ -37,42 +37,44 @@
 </p> -->
 
 <div align="center">
+<a href="https://www.enes.software/">
 <img src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif">
+</a>
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-</div>
+</div> -->
 
 
  <!--Statistics-->
 <div align="center">
   <div align="center">
-<a href="https://github.com/devenes/github-profile-views-counter">
+<a href="https://www.enes.software/">
     <img align="center" src="https://komarev.com/ghpvc/?username=devenes&color=f75c7e">
 </a>
-<a href="https://github.com/devenes?tab=followers">
+<a href="https://www.enes.software/">
     <img align="center"  src="https://img.shields.io/github/followers/devenes?style=flat-square&color=f75c7e">
 </a>
   </div>
 
 <div>
+<a href="https://www.enes.software/">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=devenes&show_icons=true&theme=radical" />
+</a>
 </div>
-<a href="https://git.io/streak-stats">
+<a href="https://www.enes.software/">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devenes&theme=radical&date_format=j%20M%5B%20Y%5D" />
 </a>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.enes.software/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devenes&layout=compact&theme=radical" />
 </a>
 </div>
 
-<hr />
-
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=devenes&theme=xcode" /></div>
-
-
-
-https://www.enes.software/
+<div  align="center">
+<a href="https://www.enes.software/">
+ <img src="https://activity-graph.herokuapp.com/graph?username=devenes&theme=xcode" />
+ </a>
+</div>
