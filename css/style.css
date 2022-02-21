@@ -35,14 +35,14 @@ a:hover {
 	position: relative;
 	overflow: hidden;
 	border-radius: 80%;	
-  }
+}
   
  img {
 	display: inline;
 	margin: 0 auto;
 	height: 100%;
-	width: auto;
-  }
+	width: auto;	
+}
 .tt {
 	top: -30px;
 	left: -10px;
@@ -148,8 +148,12 @@ img draggable="false" src="image.png" alt="image description" */
 	margin-bottom: 15px;
 	padding-bottom: 0px;	
 }
+/* Make nav links dissapear on mobile using media queries */
 @media screen and (max-width: 992px) {
 .mobile-bg {
-	background-color:#74a3fa;
+	background-color:hsl(202, 97%, 66%);
+}
+.mobile-nav {
+	display: none;
 }
 }
