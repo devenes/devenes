@@ -1,7 +1,8 @@
 <a href="https://www.enes.software/"><img src="icon/ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode"></a>
 
 <p align="left"> 
- 🖖 Hello there! I'm Enes and I'm a <strong>DevOps Engineer</strong>.
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+   Welcome to My GitHub Page! I'm Enes and I'm a <strong>DevOps Engineer</strong>.
 </p>
 
 <p align="left">
@@ -30,6 +31,48 @@
 </p>
 
 ![snake svg](https://github.com/devenes/devenes/blob/output/github-contribution-grid-snake.svg)
+
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Enes+Turan;Self+taught+developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
+</p> -->
+
+<div align="center">
+<img src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif">
+</div>
+
+
+<div align="center">
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+</div>
+
+
+ <!--Statistics-->
+<div align="center">
+  <div align="center">
+<a href="https://github.com/devenes/github-profile-views-counter">
+    <img align="center" src="https://komarev.com/ghpvc/?username=devenes&color=f75c7e">
+</a>
+<a href="https://github.com/devenes?tab=followers">
+    <img align="center"  src="https://img.shields.io/github/followers/devenes?style=flat-square&color=f75c7e">
+</a>
+  </div>
+
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devenes&show_icons=true&theme=radical" />
+</div>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devenes&theme=radical&date_format=j%20M%5B%20Y%5D" />
+</a>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devenes&layout=compact&theme=radical" />
+</a>
+</div>
+
+<hr />
+
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=devenes&theme=xcode" /></div>
+
 
 
 https://www.enes.software/
