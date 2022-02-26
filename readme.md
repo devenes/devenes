@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  ☕ Code with: <strong>HTML, CSS, JavaScript, React.JS, TypeScript, Python, Flask, Go, Bash </strong>
+  ☕ Code with: <strong>HTML, CSS, JavaScript, React.JS, Python, Flask, Bash </strong>
 </p>
 
 <p align="left">
