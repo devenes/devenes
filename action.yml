@@ -4,11 +4,11 @@ author: enes
 inputs:
   user_name:
     description: Username
-    default: enes
+    default: enesturan
     required: true
   text:
     description: Text on contribution graph
-    default: ENES
+    default: ENES TURAN
     required: true
   svg_file_name:
     description: 'SVG file name (optional), default: gitartwork.svg'
