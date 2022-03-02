@@ -1,0 +1,22 @@
+name: gitartwork on contribution graph
+description: gitartwork on users contribution graph
+author: jasineri
+inputs:
+  user_name:
+    description: Username
+    default: jasineri
+    required: true
+  text:
+    description: Text on contribution graph
+    default: JASINERI
+    required: true
+  svg_file_name:
+    description: 'SVG file name (optional), default: gitartwork.svg'
+    default: gitartwork.svg
+    required: false
+runs:
+  using: node16
+  main: dist/index.js
+branding:
+  icon: aperture
+  color: blue
