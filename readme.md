@@ -1,6 +1,7 @@
 <a href="https://www.enes.software/"><img src="icon/ilus-code.svg" min-width="300px" max-width="300px" width="300px"
     align="right" alt="logo iuricode">
 </a>
+
 <p align="left">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Welcome to My GitHub Page!
@@ -35,8 +36,6 @@
   </a> -->
 </p>
 
-![snake svg](https://github.com/devenes/devenes/blob/output/github-contribution-grid-snake.svg)
-
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Enes+Turan;Self+taught+developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
 </p> -->
@@ -46,6 +45,8 @@
     <img src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif">
   </a>
 </div>
+
+![snake svg](https://github.com/devenes/devenes/blob/output/github-contribution-grid-snake.svg)
 
 <!-- <div align="center">
 <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
