@@ -3,8 +3,7 @@
    push:
    schedule:
      - cron: '* */24 * * *'
- workflow_dispatch:
- jobs:
+  jobs:
    build:
      name: Make gitartwork SVG
      runs-on: ubuntu-latest
