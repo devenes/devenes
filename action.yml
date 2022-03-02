@@ -8,7 +8,7 @@ inputs:
     required: true
   text:
     description: Text on contribution graph
-    default: ENES TURAN
+    default: ENESTURAN
     required: true
   svg_file_name:
     description: 'SVG file name (optional), default: gitartwork.svg'
