@@ -3,7 +3,7 @@ on:
   push:
   pull_request:
   schedule:
-    - cron: '* * * * *'
+    - cron: '* */24 * * *'
   workflow_dispatch:  
 jobs:
   build:
