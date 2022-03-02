@@ -3,16 +3,17 @@
    push:
    schedule:
      - cron: '* */24 * * *'
-  jobs:
+ workflow_dispatch:
+ jobs:
    build:
      name: Make gitartwork SVG
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v2
-       - uses: devenes/gitartwork@v1
+       - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: devenes
+            user_name: enes
             # Text on contribution graph 
-            text: devenes
-       - uses: devenes/simple-push-action@v1
+            text: ENES
+       - uses: jasineri/simple-push-action@v1
