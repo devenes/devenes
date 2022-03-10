@@ -7,7 +7,7 @@
   Welcome to My GitHub Page!
 </p>
 <p>
-  I'm Enes and I'm a <strong>DevOps Engineer</strong>.
+  I'm Enes and I'm <strong>DevOps Engineer</strong>
 </p>
 <p align="left">
   ☕ Code with: <strong>HTML, CSS, JavaScript, React.JS, Python, Flask, Bash </strong>
