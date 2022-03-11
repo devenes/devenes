@@ -1,6 +1,6 @@
 name: gitartwork on contribution graph
 description: gitartwork on users contribution graph
-author: enes
+author: ENES
 inputs:
   user_name:
     description: Username
