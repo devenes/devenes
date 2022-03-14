@@ -106,7 +106,6 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=devenes&theme=xcode" />
   </a>
 </div>
-
 <div align="center">
   <a href="https://www.enes.software/">
     <h2>🏆 Github Profile Trophy 🏆</h2>
