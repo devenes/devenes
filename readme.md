@@ -1,6 +1,13 @@
-<a href="https://www.enes.software/"><img src="icon/ilus-code.svg" min-width="300px" max-width="300px" width="300px"
+<!-- <a href="https://www.enes.software/">
+<img src="icon/ilus-code.svg" min-width="300px" max-width="300px" width="300px"
     align="right" alt="logo devenes">
+</a> -->
+
+
+<a href="https://www.enes.software/">
+<img src="icon/dev.gif" width="400" align="right" alt="logo devenes">
 </a>
+
 
 <p align="left">
   <img src="./icon/hand.gif" width="28">
