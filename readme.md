@@ -1,9 +1,9 @@
 <a href="https://www.enes.software/"><img src="icon/ilus-code.svg" min-width="300px" max-width="300px" width="300px"
-    align="right" alt="logo iuricode">
+    align="right" alt="logo devenes">
 </a>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="./icon/hand.gif" width="28">
   Welcome to My GitHub Page!
 </p>
 <p>
@@ -22,18 +22,18 @@
 <p align="left">
   <a href="https://www.instagram.com/enes.ai/" alt="Instagram">
     <img
-      src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode" />
+      src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/enes.ai" />
   </a>
 
   <a href="https://www.linkedin.com/in/devenes" alt="Linkedin">
     <img
-      src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode" />
+      src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/devenes" />
   </a>
 
-  <!-- <a href="https://discord.gg/" alt="Discord">
+  <a href="https://www.youtube.com/channel/UCt-tnhSuozy8GE7u7wl1aHw" alt="Youtube">
     <img
-      src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/QevDJqCzaY" />
-  </a> -->
+      src="https://img.shields.io/badge/-Youtube-6610F2?style=for-the-badge&logo=Youtube&logoColor=FFFFFF&link=https://www.youtube.com/channel/UCt-tnhSuozy8GE7u7wl1aHw" />
+  </a>
 </p>
 
 <!-- <p align="center">
@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href="https://www.enes.software/">
-    <img src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif">
+    <img src="./readme-content/devops.gif">
   </a>
 </div>
 
@@ -51,7 +51,7 @@
 ![snake svg](https://github.com/devenes/devenes/blob/output/github-contribution-grid-snake.svg)
 
 <!-- <div align="center">
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 </div> -->
 
 <!--Statistics-->
@@ -108,7 +108,7 @@
 </div>
 <div align="center">
   <a href="https://www.enes.software/">
-    <h2>🏆 Github Profile Trophy 🏆</h2>
-    <img width=1000
-      src="https://github-profile-trophy.vercel.app/?username=devenes&column=9&theme=gruvbox&no-frame=true" />
+    <h2>🏆 Github Profile Trophy 🏆</h2>    
+        <img width=1000
+      src="https://github-profile-trophy.vercel.app/?username=devenes&column=9&theme=gruvbox&no-frame=true" />    
   </a>
