@@ -110,12 +110,12 @@
 <br>
 <div align="center">
   <a href="https://www.enes.software/">
-    <img src="https://activity-graph.herokuapp.com/graph?username=devenes&theme=xcode" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=devenes&theme=react-dark" />
   </a>
 </div>
 <div align="center">
   <a href="https://www.enes.software/">
     <h2>🏆 Github Profile Trophy 🏆</h2>    
         <img width=1000
-      src="https://github-profile-trophy.vercel.app/?username=devenes&column=9&theme=gruvbox&no-frame=true" />    
+      src="https://github-profile-trophy.vercel.app/?username=devenes&column=8&theme=onedark&no-frame=true&margin-w=15" />    
   </a>
