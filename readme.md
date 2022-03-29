@@ -91,7 +91,7 @@
   <div>
     <a href="https://www.enes.software/">
       <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=devenes&layout=compact&theme=radical" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=devenes&layout=compact&theme=radical&langs_count=10" />
     </a>
   </div>
   <br>
