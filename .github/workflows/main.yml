@@ -4,7 +4,7 @@ name: Generate Snake
 # Controls when the action will run. This action runs every 6 hours.
 on:
   schedule:
-    # every 4 hours
+    # every 8 hours
     - cron: "0 */8 * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
