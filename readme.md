@@ -17,10 +17,10 @@
   I'm Enes and I'm <strong>DevOps Engineer</strong>
 </p>
 <p align="left">
-  ☕ Code with: <strong>HTML, CSS, JavaScript, React.JS, Python, Flask, Bash </strong>
+  ☕ <strong>HTML, CSS, JavaScript, React.JS, Python, Bash, PowerShell </strong>
 </p>
 <p align="left">
-  💼 Tools: <strong> Git, GitHub Actions, Docker, Jenkins, Terraform, Ansible, Kubernetes
+  💼 <strong> Git, GitHub Actions, Docker, Jenkins, Terraform, Ansible, Kubernetes
   </strong>
 </p>
 
