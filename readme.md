@@ -53,7 +53,7 @@
   </a>
 </div>
 
-![gitartwork](gitartwork.svg)
+![enes](gitartwork.svg)
 
 ![snake svg](https://github.com/devenes/devenes/blob/output/github-contribution-grid-snake.svg)
 
@@ -65,11 +65,12 @@
 <div align="center">
   <div align="center">
     <a href="https://www.enes.software/">
-      <img align="center" src="https://komarev.com/ghpvc/?username=devenes&color=f75c7e">
+      <img align="center" src="https://komarev.com/ghpvc/?username=devenes&color=blue&style=plastic">
     </a>
-    <a href="https://www.enes.software/">
+    <!-- followers on GitHub  -->
+    <!-- <a href="https://www.enes.software/">
       <img align="center" src="https://img.shields.io/github/followers/devenes?style=flat-square&color=f75c7e">
-    </a>
+    </a> -->
     <a href="https://www.linkedin.com/in/devenes/">
       <img align="center"
         src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
@@ -113,6 +114,14 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=devenes&theme=react-dark" />
   </a>
 </div>
+
+
+<div align="center">
+  <a href="https://www.enes.software/">
+    <img src="https://raw.githubusercontent.com/devenes/devenes/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+  </a>
+</div>
+
 <div align="center">
   <a href="https://www.enes.software/">
     <h2>🏆 Github Profile Trophy 🏆</h2>    
