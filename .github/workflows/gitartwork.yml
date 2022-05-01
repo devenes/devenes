@@ -1,28 +1,28 @@
-name: gitartwork from a contribution graph
+# name: gitartwork from a contribution graph
 
-on:
-  push:
-    branches:
-      - release
+# on:
+#   push:
+#     branches:
+#       - release
 
-  pull_request:
-    branches:
-      - release
+#   pull_request:
+#     branches:
+#       - release
 
-  schedule:
-    - cron: "0 0 * * 0"
-  workflow_dispatch:
+#   schedule:
+#     - cron: "0 0 * * 0"
+#   workflow_dispatch:
 
-jobs:
-  build:
-    name: Make gitartwork SVG
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
+# jobs:
+#   build:
+#     name: Make gitartwork SVG
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
 
-      - uses: jasineri/gitartwork@v1
-        with:
-          user_name: devenes
-          text: ENES
+#       - uses: jasineri/gitartwork@v1
+#         with:
+#           user_name: devenes
+#           text: ENES
 
-      - uses: jasineri/simple-push-action@v1
+#       - uses: jasineri/simple-push-action@v1
