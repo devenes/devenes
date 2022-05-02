@@ -5,7 +5,7 @@
 
 
 <a href="https://www.enes.software/">
-<img src="icon/dev.gif" width="400" align="right" alt="logo devenes">
+<img src="icon/devenes.webp" width="400" align="right" alt="logo devenes">
 </a>
 
 
@@ -128,3 +128,4 @@
         <img width=1000
       src="https://github-profile-trophy.vercel.app/?username=devenes&column=8&theme=onedark&no-frame=true&margin-w=15" />    
   </a>
+</div>
