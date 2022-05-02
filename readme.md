@@ -49,7 +49,7 @@
 
 <div align="center">
   <a href="https://www.enes.software/">
-    <img src="./readme-content/devops.gif">
+    <img src="./icon/devops.gif">
   </a>
 </div>
 
