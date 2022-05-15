@@ -3,11 +3,9 @@
     align="right" alt="logo devenes">
 </a> -->
 
-
 <a href="https://www.enes.software/">
 <img src="icon/devenes.webp" width="400" align="right" alt="logo devenes">
 </a>
-
 
 <p align="left">
   <img src="./icon/hand.gif" width="28">
@@ -115,7 +113,6 @@
   </a>
 </div>
 
-
 <div align="center">
   <a href="https://www.enes.software/">
     <img src="https://raw.githubusercontent.com/devenes/devenes/main/profile-3d-contrib/profile-night-rainbow.svg"/>
@@ -126,6 +123,6 @@
   <a href="https://www.enes.software/">
     <h2>🏆 Github Profile Trophy 🏆</h2>    
         <img width=1000
-      src="https://github-profile-trophy.vercel.app/?username=devenes&column=8&theme=onedark&no-frame=true&margin-w=15" />    
+      src="https://github-profile-trophy.vercel.app/?username=devenes&row=1&column=7&theme=onedark&no-frame=true" />    
   </a>
 </div>
