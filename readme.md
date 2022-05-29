@@ -12,10 +12,10 @@
   Welcome to My GitHub World!
 </p>
 <p>
-  I'm Enes and I'm <strong>DevOps Engineer</strong>
+   Here's Enes and I'm Platform Engineer
 </p>
 <p align="left">
-  ☕ <strong>HTML, CSS, JavaScript, React.JS, Python, Bash, PowerShell </strong>
+  ☕ ☁️ 🐧 🐳 ☸️ 👾 🐋
 </p>
 <p align="left">
   💼 <strong> Git, GitHub Actions, Docker, Jenkins, Terraform, Ansible, Kubernetes
