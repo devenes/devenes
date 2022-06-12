@@ -1,9 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: 
-    - cron: "0 */3 * * *"
-  
+  schedule:
+    - cron: "33 */6 * * *"
+
   workflow_dispatch:
 
 jobs:
