@@ -18,8 +18,7 @@
   ☕ ☁️ 🐧 🐳 ☸️ 👾 🐋
 </p>
 <p align="left">
-  💼 <strong> Git, GitHub Actions, Docker, Jenkins, Terraform, Ansible, Kubernetes
-  </strong>
+  💼 DevOps & Automation & Orchestration  
 </p>
 
 <br>
