@@ -12,7 +12,7 @@
   Welcome to My GitHub World!
 </p>
 <p>
-   Here's Enes and I'm Platform Engineer
+   Here's Enes and I'm DevOps Platform Engineer
 </p>
 <p align="left">
   ☕ ☁️ 🐧 🐳 ☸️ 👾 🐋
