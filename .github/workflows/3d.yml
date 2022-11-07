@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "33 */6 * * *"
+    - cron: "33 */6 * * *" # 6 hours
 
   workflow_dispatch:
 
@@ -23,5 +23,5 @@ jobs:
           git config user.name devenes
           git config user.email ${{ secrets.OWNER_EMAIL }}
           git add -A .
-          git commit -m "generated"
+          git commit -m "Update 3D Contributions"
           git push
