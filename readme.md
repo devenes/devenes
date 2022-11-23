@@ -38,6 +38,11 @@
     <img
       src="https://img.shields.io/badge/-Youtube-6610F2?style=for-the-badge&logo=Youtube&logoColor=FFFFFF&link=https://www.youtube.com/channel/UCt-tnhSuozy8GE7u7wl1aHw" />
   </a>
+
+  <a href="https://www.twitter.com/thedevenes" alt="Twitter">
+    <img
+      src="https://img.shields.io/badge/-Twitter-6610F2?style=for-the-badge&logo=Twitter&logoColor=FFFFFF&link=https://www.twitter.com/thedevenes" />
+  </a>
 </p>
 
 <!-- <p align="center">
@@ -71,6 +76,10 @@
     <a href="https://www.linkedin.com/in/devenes/">
       <img align="center"
         src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
+    </a>
+    <a href="https://www.twitter.com/thedevenes/">
+      <img align="center"
+        src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2">
     </a>
     <!-- <a>
       <img align="center" src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=f75c7e">
