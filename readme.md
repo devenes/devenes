@@ -34,7 +34,7 @@
       src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/devenes" />
   </a>
 
-  <a href="https://www.youtube.com/channel/UCt-tnhSuozy8GE7u7wl1aHw" alt="Youtube">
+  <a href="https://www.youtube.com/@cloudnativetr" alt="Youtube">
     <img
       src="https://img.shields.io/badge/-Youtube-6610F2?style=for-the-badge&logo=Youtube&logoColor=FFFFFF&link=https://www.youtube.com/channel/UCt-tnhSuozy8GE7u7wl1aHw" />
   </a>
