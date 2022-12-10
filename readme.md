@@ -43,6 +43,11 @@
     <img
       src="https://img.shields.io/badge/-Twitter-6610F2?style=for-the-badge&logo=Twitter&logoColor=FFFFFF&link=https://www.twitter.com/thedevenes" />
   </a>
+
+  <a href="https://devenes.medium.com/" alt="Medium">
+    <img
+      src="https://img.shields.io/badge/-Medium-6610F2?style=for-the-badge&logo=Medium&logoColor=FFFFFF&link=https://devenes.medium.com/" />
+  </a>
 </p>
 
 <!-- <p align="center">
@@ -90,6 +95,10 @@
     </a>
     <a href="https://github.com/devenes/">
       <img align="center" src="https://img.shields.io/github/followers/devenes?label=follow&style=social">
+    </a>
+    <a href="https://devenes.medium.com/">
+      <img align="center"
+        src="https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=black">
     </a>
   </div>
 
