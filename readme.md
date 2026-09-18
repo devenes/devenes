@@ -45,7 +45,7 @@ I occasionally write about cloud-native engineering, Kubernetes, platform engine
 
 ### Find me elsewhere
 
-[Website](https://www.enes.software/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/devenes/) &nbsp;·&nbsp; [Medium](https://devenes.medium.com/) &nbsp;·&nbsp; [YouTube](https://www.youtube.com/@cloudnativetr) &nbsp;·&nbsp; [X / Twitter](https://twitter.com/thedevenes)
+[LinkedIn](https://www.linkedin.com/in/devenes/) &nbsp;·&nbsp; [Medium](https://devenes.medium.com/) &nbsp;·&nbsp; [YouTube](https://www.youtube.com/@cloudnativeistanbul) &nbsp;·&nbsp; [X / Twitter](https://twitter.com/thedevenes)
 
 <br />
 
